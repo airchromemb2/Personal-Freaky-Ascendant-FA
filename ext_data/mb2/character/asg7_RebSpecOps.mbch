@@ -13,7 +13,7 @@ ClassInfo
 	rankForcepool	110,140
 	saberMaxChain 1
 	saberDamage	60
-	saber1	energyshield_leg2
+	saber1	energyshield_as2
 	saberstyle	SS_FAST|SS_TAVION
 	saber1_1	ct_shield1
 	saberstyle_1	SS_FAST|SS_TAVION
