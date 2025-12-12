@@ -161,10 +161,8 @@ WeaponInfo4
 	animAttackWalk BOTH_MAND_FLAME_READY
 	animStand BOTH_STAND1 //lower
 }
-description	"Mira
+description	"Mira [Bounty Hunter]
 
-Class: Bounty Hunter
-Brief Overview:
 a Mandalorian Neo-Crusader with demolitions/gadget expertise, a lightdagger, and minor Force Sensitivity
 
 ^2Weaponry:
