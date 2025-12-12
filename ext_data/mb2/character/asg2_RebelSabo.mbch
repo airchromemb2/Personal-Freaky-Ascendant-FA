@@ -251,9 +251,8 @@ ForceInfo0
  Icon "gfx/marvel/spidersense"
  ForcePowerName "Sensory Scrambler"
 }
-description "Rebel Saboteur
+description "Rebel Saboteur [Hero]
 
-Class: Hero
 An elite saboteur with damage over time weapons and getaway tools.
 ^8Default Equipment:
 -Force Blind

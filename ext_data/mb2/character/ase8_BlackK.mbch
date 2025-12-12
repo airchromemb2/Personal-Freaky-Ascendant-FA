@@ -97,10 +97,8 @@ WeaponInfo2
     damageMod .75
 }
 
-description	"Black Krrsantan aka 'BK'
+description	"Black Krrsantan aka 'BK' [Wookiee]
 
-Class: Wookiee
-Brief Overview: 
 A large but swift Wookiee / Gunner hybrid with Smoke Grenades, a Bowcaster, and the ability to shock enemies upon punches.
 
 ^2Weaponry:

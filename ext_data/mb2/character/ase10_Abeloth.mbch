@@ -113,10 +113,8 @@ WeaponInfo2
 }
 
 
-description	"Abeloth
+description	"Abeloth [Sith]
 	
-Class: Sith
-Brief Overview:
 A delicate, but powerful Force entity capable of wreaking extreme havoc on the enemy.
 
 ^2Weapons:

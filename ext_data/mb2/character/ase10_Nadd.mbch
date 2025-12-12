@@ -67,10 +67,8 @@ WeaponInfo0
 	Icon				""gfx/hud/w_icon_ragnos_Weapons""
 	WeaponName			"Sadow's Sword and Nadd's Shoto"
 }
-description "Freedon Nadd
+description "Freedon Nadd [Sith]
 
-Class: Sith
-Brief Overview: 
 An attack/support-oriented Sith sporting a unique Sith Sword and/or Shoto, and the ability to share Force Absorb with allies.
 
 ^2Default Weaponry:

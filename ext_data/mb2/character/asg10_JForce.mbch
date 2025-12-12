@@ -261,6 +261,5 @@ WeaponInfo4
 	animStand BOTH_SABER_OBIWAN_STANCE
 	ReloadTimeModifier 5 }
 
-description "Jedi Forcemaster
-Class: Jedi
-Brief Overview:"
+description "Jedi Forcemaster [Jedi]
+"
