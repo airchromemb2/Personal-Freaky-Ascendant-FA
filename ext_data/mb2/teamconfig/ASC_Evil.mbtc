@@ -90,7 +90,7 @@ SubclassesForClass4
 
 SubclassesForClass5
 {
-	subclass1	"v9_ShadowG"
+	Subclass1	"v9_ShadowG"
 	Subclass2	"v9_Maul"
 	Subclass3	"v9_SDuel"
 	Subclass4	"v9_Ventres"
@@ -114,7 +114,7 @@ SubclassesForClass6
 	Subclass3	"v10_Jerec"
 	Subclass4	"v10_Tavion"
 	Subclass5	"v10_Ragnos"
-	Subclass6	"ase10_Plagueis
+	Subclass6	"ase10_Plagueis"
 	Subclass7	"v10_Malak"
 	Subclass8	"v10_Nihilus"
 	Subclass9	"ase10_TrayaTrio"
