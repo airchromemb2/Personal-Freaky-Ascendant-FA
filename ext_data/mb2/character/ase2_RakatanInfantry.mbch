@@ -3,7 +3,7 @@
 ClassInfo
 {
 	name		"RakatanInfantry"
-	MBClass		MB_CLASS_WOOKIE
+	MBClass		MB_CLASS_SOLDIER
 	weapons		WP_SABER|WP_MELEE
 	WP_BlasterPistolFlags HELD_PULSE|HELD_AMMOREGEN
 	WP_RepeaterFlags HELD_AMMOREGEN
@@ -246,7 +246,7 @@ StartSound	"sound/chars/rakata/misc/pain100.wav"
 LoopSound	"sound/chars/rakata/misc/death1.wav"
 }
 
-description "Rakatan Infantry [Wookie]
+description "Rakatan Infantry [Soldier]
 
 A Rakatan soldier hailing from the Infinite Empire era with front and backline options.
 
@@ -270,4 +270,5 @@ A Rakatan soldier hailing from the Infinite Empire era with front and backline o
 - Strength (2)
 - Fury (2)
 - 300% Longer Skill CD"
+
 
